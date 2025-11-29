@@ -1,2 +1,2 @@
 # se100
-Learning coding
+Learning coding... :)
